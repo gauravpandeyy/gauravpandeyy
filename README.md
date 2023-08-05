@@ -1,7 +1,6 @@
 - 👋 Hi, I’m gaurav pandey
 - 👀 I’m interested in java , data science & machine learning 
 - 🌱 I’m currently learning java 
-- 💞️ I’m looking to collaborate on projects on html css js 
 - 📫 How to reach me in
 
 <!---
